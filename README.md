@@ -1,2 +1,2 @@
-# project-portfolio-va
-Python, JS, SQL project related codes
+# Project-Portfolio-VA
+Python, Power Bi, SQL, Google Appscript project related codes
