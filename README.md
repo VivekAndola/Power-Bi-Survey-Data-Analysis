@@ -15,6 +15,7 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the data professional jobs using the survey data collected. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
@@ -75,3 +76,8 @@ I had to remove all zero values from the budget and revenue columns because they
 ### References
 - SQL for Businesses by Werty.
 - Stack Overflow
+
+  💻
+
+  |Heading1|Heading2|
+  |content1|content2|
