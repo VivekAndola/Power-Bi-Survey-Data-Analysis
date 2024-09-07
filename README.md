@@ -82,3 +82,7 @@ I had to remove all zero values from the budget and revenue columns because they
   |Heading1|Heading2|
   |--------|--------|
   |content1|content2|
+
+  **bold**
+
+  *italic*
