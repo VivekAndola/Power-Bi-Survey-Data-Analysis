@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning-preparation)
@@ -14,10 +14,10 @@
 - [References](#references)
 
 
-### Project Overview
+### Problem Statement
 ---
 
-This data analysis project aims to provide insights into the data professional jobs using the survey data collected. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the data professional jobs using the survey data collected.
 
 ![survey project](https://github.com/user-attachments/assets/49345403-0daf-4fa9-b79b-2f355fd7cac7)
 
@@ -31,14 +31,16 @@ Dataset: [Download Here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Po
 ### Tools
 
 - Power Bi
+    - Power Query
+    - DAX
 
 ### Data Cleaning / Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+    1. Data loading and inspection.
+    2. Handling missing values.
+    3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 
