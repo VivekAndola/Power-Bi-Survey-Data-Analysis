@@ -26,7 +26,7 @@ This data analysis project aims to provide insights into the data professional j
 
 Survey Data: Data consists of the data gathered from the online survey conducted to collect information about their jobs and related information from the data professionals.
 
-Dataset: [Dowload Here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+Dataset: [Download Here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 ### Tools
 
@@ -58,8 +58,8 @@ SELECT * FROM table_name where condition1 = 2;
 
 The analysis results are summarized as follows:
 
-- The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-- Product Category A is the best-performing category in terms of sales and revenue.
+- The company's sales have steadily increased over the past year, with a noticeable peak during the holiday season.
+- Product Category A is the best-performing category in sales and revenue.
 - Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
 
 ### Recommendations
@@ -71,7 +71,7 @@ Implement a customer segmentation strategy to target high-LTV customers effectiv
 
 
 ### Limitations
-I had to remove all zero values from the budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+I had to remove all zero values from the budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions, but even then, we can still see that there is a positive correlation between both budget and number of votes with revenue.
 
 ### References
 - SQL for Businesses by Werty.
